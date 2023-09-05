@@ -1,0 +1,17 @@
+/* @import url(''); */
+/* :root {} */
+* {
+  user-select: none;
+  box-sizing: border-box;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: 10vmin;
+  text-shadow: 0px 0px 20px blue;
+}
